@@ -2,21 +2,22 @@
   "name": "belajarmean",
   "version": "1.0.0",
   "description": "ini adalah folder project untuk belajar mean",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "juancesar123"
+    "url": "parinussa"
   },
-  "author": "juan ceasar andrianto",
+  "author": "juan cesar andrianto, Noval Parinussa",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.16.1",
     "cookie-parser": "^1.4.3",
     "express": "^4.14.1",
     "mongoose": "^4.8.5",
+    "mpromise": "^0.5.5",
     "multer": "^1.3.0",
     "session": "^0.1.0"
   }
